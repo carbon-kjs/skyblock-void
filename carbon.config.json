@@ -1,0 +1,8 @@
+{
+  "name": "skyblock-void",
+  "version": "1.0.0",
+  "author": "Malezja",
+  "minecraftVersion": "1.19.2",
+  "description": "Removes death caused by void and fall damage while falling from void.",
+  "modloaders": ["forge", "fabric"]
+}
